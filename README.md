@@ -136,7 +136,7 @@ To reproduce this analysis on your machine:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/pens-printers-sales-strategy.git
+git clone https://github.com/runesu/product-sales--pens-and-printers.git
 cd pens-printers-sales-strategy
 
 # Create and activate a virtual environment
