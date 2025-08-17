@@ -55,7 +55,7 @@ The original dataset contained **15,000 rows and 8 columns**. A column-by-column
 ## Exploratory Analysis
 
 ### 1. Customer Reach by Sales Method
-![customers_by_sales_method](customers_by_sales_method.png)
+![customers_by_sales_method](./figures/count_customers_by_sales_method.png)
 
 - **Email**: 6,921 customers — **widest reach** with minimal effort.  
 - **Call**: 4,780 customers — **lower reach**, time-intensive.  
@@ -64,8 +64,8 @@ The original dataset contained **15,000 rows and 8 columns**. A column-by-column
 ---
 
 ### 2. Revenue Distribution (Overall and by Method)
-![overall_revenue_spread-1](overall_revenue_spread-1.png)  
-![revenue_spread_by_sales_method](revenue_spread_by_sales_method.png)
+![overall_revenue_distribution](./figures/distribution_revenue_overall.png)  
+![revenue_by_method_boxplot](./figures/revenue_by_method_boxplot.png)
 
 - **Email + Call**: **Highest median revenue** and **widest range**.  
 - **Email**: Moderate performance with variability.  
@@ -74,7 +74,7 @@ The original dataset contained **15,000 rows and 8 columns**. A column-by-column
 ---
 
 ### 3. Revenue Over Time
-![average_weekly_revenue_by_sales_method](average_weekly_revenue_by_sales_method.png)
+![average_weekly_revenue_by_method](./figures/avg_weekly_revenue_by_method.png)
 
 - **Email + Call**: Consistently **top performer**.  
 - **Email**: Strong start, then plateau.  
@@ -84,7 +84,7 @@ The original dataset contained **15,000 rows and 8 columns**. A column-by-column
 
 ## Business Metric: Average Revenue per Customer
 
-![business_metric_average_revenue_per_customer](business_metric_average_revenue_per_customer.png)
+![avg_revenue_per_customer_by_method](./figures/avg_revenue_per_customer_by_method.png)
 
 | Sales Method     | Avg. Revenue per Customer |
 | ---------------- | -------------------------- |
