@@ -25,10 +25,11 @@ This report outlines the **data validation process, exploratory analysis, busine
 
 ## Tools Used
 
-- **Python**  
+- **Python** (CLI-based workflow)  
+- **Visual Studio Code** (editor/IDE)  
 - **Pandas** for data manipulation  
 - **Matplotlib** & **Seaborn** for visualizations  
-- **Jupyter Notebook** for analysis and documentation  
+- **pytest** for basic sanity checks 
 
 ---
 
